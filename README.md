@@ -6,7 +6,7 @@
 * [app to fight depression](https://wuju.app/#!/topics/intro)
 * [job is done](https://jobs-done.vercel.app/)
 * [deck](https://docs.google.com/presentation/d/1YtXKCcSfMPr3UzuMENaZnE_kWku4mRnFoiTQ5H9W1u0/view)
-* [grid goal](https://www.gridgoal.com/)
+* [grid goal](https://www.gridgoal.com/) [	I built a web app inspired by the 4 Disciplines of Execution for goal completion (gridgoal.com)](https://news.ycombinator.com/item?id=29621492)
 
 ## Learn
 
